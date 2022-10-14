@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.red {
+  color: red;
+  border: 2px solid red;
+  width: 40%;
+  margin: 10px;
+}
+.blue {
+  color: blue;
+  border: 2px solid blue;
+  width: 40%;
+  margin: 10px;
+}
